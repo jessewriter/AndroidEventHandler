@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstEventHandler</string>
+    <string name="textviewMsg">TextView</string>
+    <string name="buttonText">Button</string>
+</resources>
